@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a226da6e.css",
+    "main.js": "/static/js/main.cf586320.js",
+    "static/media/Combo-offer.jpg": "/static/media/Combo-offer.ad761359a680337485f9.jpg",
+    "static/media/lavender-soap.jpg": "/static/media/lavender-soap.f49a4cf9d69a026482bb.jpg",
+    "static/media/yardley-soap.jpg": "/static/media/yardley-soap.7420926b9add3f14a9c1.jpg",
+    "static/media/sandal+saffron-soap.jpg": "/static/media/sandal+saffron-soap.38cc6540f7b50023c465.jpg",
+    "static/media/chandan-soap.jpg": "/static/media/chandan-soap.71352383d5cc0cf0bfc2.jpg",
+    "static/media/sweet-rose-soap.jpg": "/static/media/sweet-rose-soap.571ba2f4fa8c10fe7d0b.jpg",
+    "static/media/rose-soap.jpg": "/static/media/rose-soap.3ac7baf1c79773243fac.jpg",
+    "static/media/lavender-yardley-soap.jpg": "/static/media/lavender-yardley-soap.2282407b6d46a39e0397.jpg",
+    "index.html": "/index.html",
+    "main.a226da6e.css.map": "/static/css/main.a226da6e.css.map",
+    "main.cf586320.js.map": "/static/js/main.cf586320.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a226da6e.css",
+    "static/js/main.cf586320.js"
+  ]
+}
